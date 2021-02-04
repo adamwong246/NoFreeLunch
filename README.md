@@ -1,4 +1,7 @@
 # No Free Lunch
-## The Personal Fusion Reactor requires fuel
+## Removes all sources of free energy.
 
-I feel the the PFR is over-powered. It's produces infinite free electricity, is cheap to create and nearly impossible to lose. With this mod, the PFR is nerfed and must be feed fuel. It can burn any type of fuel. 
+This mod aims to remove items from the game that provide energy without sunlight or fuel.
+
+- The Portable Fusion Reactor and the OffShore Pump now requires fuel some sort of power.
+- BELTS HAVE BEEN REMOVED.

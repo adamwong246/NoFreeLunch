@@ -1,11 +1,13 @@
 {
   "name": "no_free_lunch",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "title": "No Free Lunch",
-  "description": "The Personal Fusion Reactor requires fuel",
+  "description": "Removes any source of free energy.",
   "factorio_version": "1.1",
   "dependencies": [
-    "base >= 0.15.0"
+    "base >= 0.15.0",
+
+    "BurnerOffshorePumpUpdate = 1.1.1"
   ],
   "author": "adamwong246",
   "contact": "adamwong246@gmail.com",
