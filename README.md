@@ -1,7 +1,7 @@
 # No Free Lunch
-## Removes all sources of free energy.
+## Removes source of free power
 
 This mod aims to remove items from the game that provide energy without sunlight or fuel.
 
-- The Portable Fusion Reactor and the OffShore Pump now requires fuel some sort of power.
-- BELTS HAVE BEEN REMOVED.
+- The Portable Fusion Reactor required burnable energy.
+- The OffShore Pump is replaced with burner and electric varieties.
