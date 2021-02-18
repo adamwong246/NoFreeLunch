@@ -1,12 +1,13 @@
 {
   "name": "no_free_lunch",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "title": "No Free Lunch",
-  "description": "Removes source of free power",
+  "description": "Removes all free resources",
   "factorio_version": "1.1",
   "dependencies": [
     "base >= 1.1.21",
-    "BurnerOffshorePumpUpdate = 1.1.1"
+    "BurnerOffshorePumpUpdate = 1.1.1",
+    "WaterAsAResource = 0.8.0"
   ],
   "author": "adamwong246",
   "contact": "adamwong246@gmail.com",
