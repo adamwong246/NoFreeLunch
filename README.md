@@ -1,7 +1,9 @@
 # No Free Lunch
-## Removes source of free power
+## Removes free power and infinite resources. 
 
-This mod aims to remove items from the game that provide energy without sunlight or fuel.
-
-- The Portable Fusion Reactor required burnable energy.
+- The Portable Fusion Reactor requires burnable energy.
 - The OffShore Pump is replaced with burner and electric varieties.
+- The Spidertron requires burnable energy.
+- Pumpjacks will eventually run dry.
+- Open Water will eventually be depleted. 
+
