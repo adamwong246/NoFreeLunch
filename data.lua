@@ -1,5 +1,3 @@
---data.lua
-
 local pfr = table.deepcopy(data.raw["generator-equipment"]["fusion-reactor-equipment"])
 
 pfr.burner = {
